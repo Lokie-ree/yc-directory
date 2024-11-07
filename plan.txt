@@ -1,0 +1,29 @@
+*Sanity Schema Structure*
+  Startup
+    Title
+    Slug
+    Author
+    Views
+    Description
+    Category
+    Image
+    Pitch
+  Author
+    Github
+      Id
+      Name
+      Username
+      Email
+      Image
+      Bio
+  Playlist
+    Title
+      Editor Picks
+      Startup of the Day
+      Honors
+      Startup of the Month
+      People's Favorite
+    Slug
+    Select Startups
+
+    

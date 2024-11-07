@@ -18,7 +18,7 @@ export default async function Home({
         "This is a tool that allows you to generate your own custom thumbnails for YouTube videos.",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs6gtfUw4MOCO3NsHKqKdQbfzzieU34AK80w&s",
-      category: "Content Creators",
+      category: "Creators",
       title: "Thumbnails",
     },
   ];
