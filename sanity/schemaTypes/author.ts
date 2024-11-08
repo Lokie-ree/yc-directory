@@ -25,8 +25,7 @@ export const author = defineType({
     }),
     defineField({
       name: "image",
-      type: "image",
-      options: { hotspot: true },
+      type: "url",
     }),
     defineField({
       name: "bio",
